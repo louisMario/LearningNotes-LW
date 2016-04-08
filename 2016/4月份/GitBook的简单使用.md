@@ -28,6 +28,7 @@ GitBook支持输出多种文档格式：
 
 ![首页MyBook](http://upload-images.jianshu.io/upload_images/1436895-7520636d7271a348.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
  * 接下来是重点：团队协作
     我们都知道在github上面如果要多人协作开发一个项目，有一个方法是创建一个organization，那么在GitBook也同样，可以创建一个organization。
 ![团队Member成员界面](http://upload-images.jianshu.io/upload_images/1436895-91295b16f1931d09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -59,5 +60,7 @@ GitBook支持输出多种文档格式：
 
 
 ![分支在界面上的显示效果](http://upload-images.jianshu.io/upload_images/1436895-b5d19724cc2ef724.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ 
+ *  你也可以在gitbook上面直接管理你github上面的项目文档，由于比较简单这里就不做介绍。（我的github上的文档都是用GitBook editor来编写的，挺方便）
 
 以上是GitBook的一些简单使用，我也是初学者，后期如果有研究更深入的内容也会继续补充，希望对大家有所帮助。
