@@ -4,7 +4,7 @@
 
 最近开始学习使用github，无意中了解到有gitbook这个东东，抱着忐忑的心情展开了一系列学习，结果发现网上并没有很直白的教程，这里简单分享一下GitBook的一些学习心得。
 ```
-PS:浏览本文的时候，默认你已经学会github的一些使用。
+PS:浏览本文的时候，默认你已经学会github的基础使用。
 ```
  * GitBook是什么？
 GitBook是一个基于 [Node.js](http://baike.baidu.com/view/3974030.htm) 的命令行工具，可使用 [Github](http://baike.baidu.com/view/3366456.htm)/[Git](http://baike.baidu.com/subview/1531489/12032478.htm) 和 [Markdown](http://baike.baidu.com/view/2311114.htm) 来制作精美的电子书，GitBook 并非关于 Git 的教程。
