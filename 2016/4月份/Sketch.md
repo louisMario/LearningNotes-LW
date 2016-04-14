@@ -4,8 +4,31 @@ Sketch作为一个为UI设计而生的工具，全矢量、轻量级、像素级
 
 下文是我通过一段时间的使用，对比PS，梳理了Sketch对我们而言的优点和痛点，探讨了下Sketch对提升工作效率是否有帮助，文末还附带了一些延伸阅读。
 
+[[点击浏览Sketch界面英文翻译](http://www.sketchs.cn/tutorials/detail/243.html)]
+
+[[点击下载Sketch最新破解版](http://www.sketchs.cn/article/detail/253.html)]
+
+[[点击进入Sketch免费素材资源库](http://www.sketchs.cn/posts.html)]
 
 
+##各大素材网站推荐：
+
+http://www.ui.cn/    
+UI中国
+
+http://www.iconfont.cn/collections?spm=a313x.7781069.0.0.ATZLTs&personal=1 阿里妈妈Icon公开图标库
+
+http://www.uisdc.com/ 
+优设
+
+http://hippter.com/
+ppt的门户网站，上面有大量免费ppt模板下载
+
+http://nipponcolors.com/#shinbashi
+日本网站，调色板
+
+https://pixabay.com/zh/editors_choice/
+外国高清图片素材，打开很慢
 #PART1 Sketch的8大优势
 ###1.小清新颜值高
 简洁高效 抗干扰
