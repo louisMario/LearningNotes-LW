@@ -4,6 +4,10 @@ UIScrollView
 ###基础概念：
 #####UIScorllView：
 滚动视图继承自UIView ，除了可以做容器，可以设置超出它的尺寸的区域。
+
+![效果图](http://upload-images.jianshu.io/upload_images/1436895-f40e9873ac77a8a8.gif?imageMogr2/auto-orient/strip)
+
+以上图片是最常见的ScrollView做的欢迎界面。后面有代码。
 * 属性：
 
 ####常用属性:
