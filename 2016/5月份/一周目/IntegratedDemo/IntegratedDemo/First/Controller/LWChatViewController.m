@@ -163,7 +163,6 @@
     LWCellFrameModel *cellFrame = _cellFrameDatas[indexPath.row];
     return cellFrame.cellHeght;
 }
-#warning scrollView?
 
 #pragma mark - UItextField delegate
 -(BOOL)textFieldShouldReturn:(UITextField *)textField
@@ -224,10 +223,11 @@
 {
     [[NSNotificationCenter defaultCenter] removeObserver:self];
 }
-- (void)scrollViewWillBeginDragging:(UIScrollView *)scrollView
-{
-    [self.view endEditing:YES];
-}
+#warning bd
+//- (void)scrollViewWillBeginDragging:(UIScrollView *)scrollView
+//{
+//    [self.view endEditing:YES];
+//}
 
 
 
